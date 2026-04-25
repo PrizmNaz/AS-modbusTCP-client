@@ -1,7 +1,10 @@
-# Disclamer
+# Disclaimer
 This is unofficial independent project for interoperability/testing purposes. Not affiliated with or endorsed by Kawasaki Heavy Industries, Kawasaki Robotics, or the Modbus Organization
+
 # Modbus TCP Client for Kawasaki Robots
-This project provides a Modbus TCP client implementation for Kawasaki robots using the standard AS language environment.
+
+A practical industrial communication project for Kawasaki robots.
+It implements a Modbus TCP client in Kawasaki AS language, enabling the robot controller to act as a Modbus TCP master and exchange data with one or several external Modbus TCP server devices. A Python test server is included for local validation, debugging, and integration testing.
 It is intended for practical integration, interoperability, and testing in local network setups.
 
 ## Project Status
